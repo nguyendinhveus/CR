@@ -7,10 +7,10 @@ const textConfig = {
   text6: "Bé yêu anh cơ(chọn cái này là sau phải cho ngta kẹo đó)",
   text7: "Lí do là gì dọ",
   text8: "Thầm kín thầm kín",
-  text9: "Vì tớ thích cậu mất rồi",
-  text10: "Anh cảm ơn bé anh nhiều lắm ạaa",
+  text9: "Vì trlinh là em bé của anh dinh thoi",
+  text10: "Rùi anh bíc ròi =)))))))).",
   text11:
-    "Yêu bé lắmmmm, sắp tới chỉ bảo em bé của chị nhiều hơn nhaaa ",
+    "Anh cảm ơn bé anh nhiều lắm ạaa. Yêu bé lắmmmm, sắp tới chỉ bảo em bé của chị nhiều hơn nhaaa ",
   text12: "Okii lunn <3",
 };
 
